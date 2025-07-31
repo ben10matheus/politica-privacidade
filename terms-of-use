@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Termos de Uso - Vibaz</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+        h1, h2 {
+            color: #444;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Termos de Uso da Vibaz</h1>
+
+    <section>
+        <h2>1. Introdução</h2>
+        <p>Ao utilizar nosso site ou qualquer serviço relacionado da Vibaz, você concorda com estes Termos de Uso.</p>
+    </section>
+
+    <section>
+        <h2>2. Uso Autorizado</h2>
+        <p>O uso do site é destinado exclusivamente a funcionários autorizados para fins profissionais relacionados às atividades da Vibaz. É proibido qualquer uso indevido ou não autorizado.</p>
+    </section>
+
+    <section>
+        <h2>3. Cadastro e Acesso</h2>
+        <p>Funcionários poderão acessar o site mediante uso de login individual, sendo responsabilidade do usuário manter suas credenciais confidenciais.</p>
+    </section>
+
+    <section>
+        <h2>4. Propriedade Intelectual</h2>
+        <p>Todo conteúdo disponibilizado no site é propriedade exclusiva da Vibaz e protegido pelas leis brasileiras aplicáveis de propriedade intelectual.</p>
+    </section>
+
+    <section>
+        <h2>5. Responsabilidade</h2>
+        <p>Os usuários são responsáveis por qualquer conteúdo ou informações inseridas no sistema, assegurando que tais informações sejam verídicas e completas.</p>
+    </section>
+
+    <section>
+        <h2>6. Segurança e Privacidade</h2>
+        <p>Informações pessoais fornecidas serão tratadas de acordo com nossa <a href="política-de-privacidade.html">Política de Privacidade</a>.</p>
+    </section>
+
+    <section>
+        <h2>7. Alterações dos Termos</h2>
+        <p>A Vibaz reserva o direito de alterar estes Termos de Uso a qualquer momento, notificando os usuários das mudanças realizadas.</p>
+    </section>
+
+    <section>
+        <h2>8. Contato</h2>
+        <p>Para quaisquer dúvidas ou esclarecimentos sobre estes Termos, entre em contato pelo email: matheus.c@vibaz.com.br.</p>
+    </section>
+
+    <p>Última atualização: 31 de Julho de 2025.</p>
+</body>
+</html>
